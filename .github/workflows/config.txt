@@ -1,0 +1,14 @@
+{
+# 微信公众号配置
+"app_id": "wx09cb6b2eeca14317", # 公众号appId
+"app_secret": "885b529832ecf535eadc11903753dc0c", # 公众号appSecret
+"template_id": "Wt1C61RPp-ek1WOe_PH3Dd9PqsH4ttmdq0JV30hSLbQ", # 模板消息id
+"user": ["ohNxX6xfeV5T_z9bztWXS846iTvo","ohNxX65yf9tDrjZqr4POBFHPXXaQ"],  # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+
+# 信息配置
+"province": "河北", # 所在省份
+"city": "石家庄", # 所在城市
+"birthday1": {"name": "张娅", "birthday": "r2000-07-16"},  # 生日1，姓名和生日，生日若为农历在最前面加上r即可
+"birthday2": {"name": "张贺召", "birthday": "r1998-08-04"}, # # 生日2，同上
+"love_date": "2021-02-16"  # 在一起的日期，暂不支持农历
+}
